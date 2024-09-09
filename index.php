@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Vytalix Tech</title>
+    <title>Vytalix Tech ||</title>
 
     <!-- Header-Links -->
     <?php include("inc/header-links.php"); ?>
