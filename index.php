@@ -61,7 +61,7 @@
                                 <h2>Building Digital  Products,Brands &amp; Experience</h2>
                             </div>
                             <p>We specialize in crafting tailored strategies and creative solutions that drive success in the digital realm. With a team of skilled experts in web design, digital marketing, and technology, we're committed to bringing your vision to life</p>
-                            <a href="about.html" class="theme-btn">Learn More Us <i class="fas fa-angle-double-right"></i></a>
+                            <a href="about.html" class="theme-btn">Read More <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 order-lg-0 order-1">
