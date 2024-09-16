@@ -88,7 +88,7 @@
                         
                         <!-- Menu Button -->
                         <div class="menu-btns">
-                           <a href="contact.html" class="theme-btn">Get Quote<i class="fas fa-angle-double-right"></i></a>
+                           <a href="#!" class="theme-btn">Get Quote<i class="fas fa-angle-double-right"></i></a>
                            
                             <!-- menu sidbar -->
                             <div class="menu-sidebar">

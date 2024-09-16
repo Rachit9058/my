@@ -56,12 +56,17 @@
                 <div class="row justify-content-between">
                     <div class="col-xl-5 col-lg-6 order-1">
                         <div class="about-content-four mt-40 rmt-0 rmb-55 wow fadeInUp delay-0-4s animated" style="visibility: visible; animation-name: fadeInUp;">
-                            <div class="section-title mb-20">
-                                <span class="sub-title mb-15">About digital solutions</span>
-                                <h2>Building Digital  Products,Brands &amp; Experience</h2>
+                            <div class="section-title mb-2">
+                                <span class="sub-title mb-15">About Us</span>
+                                <h2 class="mb-0">Welcome to Vytalix Tech</h2>
                             </div>
                             <p>We specialize in crafting tailored strategies and creative solutions that drive success in the digital realm. With a team of skilled experts in web design, digital marketing, and technology, we're committed to bringing your vision to life</p>
+                            <div class="client-satisfactions counter-text-wrap pt-10 pb-10 counted">
                             <a href="about.html" class="theme-btn">Read More <i class="fas fa-angle-double-right"></i></a>
+                                <img src="assets/images/about/hands.png" alt="Hands">
+                                <span class="count-text" data-speed="3000" data-stop="3658">3658</span>
+                                <span class="heading">Satisfied Clients</span>
+                            </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-6 order-lg-0 order-1">
@@ -182,9 +187,9 @@
                         <div class="statistics-three-content rmb-65 wow fadeInRight delay-0-2s">
                             <div class="row justify-content-center justify-content-xl-start">
                                 <div class="col-xl-9">
-                                    <div class="section-title mb-60">
-                                        <span class="sub-title mb-15">Company Statistics</span>
-                                        <h2>We’ve some achievement from global partners</h2>
+                                    <div class="section-title mb-40">
+                                        <span class="sub-title mb-15">Our  Statistics</span>
+                                        <h2>We’ve some achievement</h2>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
@@ -273,7 +278,7 @@
                                 <h2>Amazing web design development features</h2>
                             </div>
                             <p>Sit amet consectetur adipiscing eiusmod tempor incididunt labore et dolore magna aliquae suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan</p>
-                            <a href="about.html" class="theme-btn mt-25">Learn More About Us <i class="fas fa-angle-double-right"></i></a>
+                            <a href="about.html" class="theme-btn mt-25">Read More <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -283,7 +288,7 @@
 
 
         <!-- Testimonial Area Start -->
-        <section class="testimonial-area-two rel z-1 pt-60 pb-60">
+        <!-- <section class="testimonial-area-two rel z-1 pt-60 pb-60">
             <div class="container for-middle-border">
                 <div class="row justify-content-between align-items-center pb-90 rpb-35 wow fadeInUp delay-0-2s">
                     <div class="col-xl-7 col-lg-8">
@@ -350,7 +355,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!-- Testimonial Area End -->
 
 

@@ -45,7 +45,7 @@
                     </div>
                 </div>
             </div>
-            <div class="footer-bottom mt-30 pt-25 pb-10">
+            <div class="footer-bottom">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
