@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Vytalix Tech ||</title>
+    <title>Vytalix Tech</title>
 
     <!-- Header-Links -->
     <?php include("inc/header-links.php"); ?>
@@ -26,9 +26,9 @@
                 <div class="row align-items-center">
                     <div class="col-lg-7 align-self-center">
                         <div class="hero-content text-white rmb-0 wow fadeInLeft delay-0-2s">
-                            <span class="sub-title mb-30">25 Years of Experience in web design solutions</span>
-                            <h1>Web Development Service Provider</h1>
-                            <p>Sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore dolore magna aliquauis ipsum suspendisse ultrices gravida risus</p>
+                            <span class="sub-title mb-30">9 Years of Experience in web design solutions</span>
+                            <h1>Crafting Modern, Responsive, and Creative Web Solutions</h1>
+                            <p>At Vytalix Tech, we bring your digital vision to life with sleek designs, cutting-edge technologies, and user-focused solutions. Whether you need a portfolio, business, or e-commerce website, our expertise ensures a seamless and engaging online presence.</p>
                             <div class="hero-btns pt-10">
                                 <a href="about.html" class="theme-btn mt-15">Discover More <i class="fas fa-angle-double-right"></i></a>
                                 <a href="https://www.youtube.com/watch?v=9Y7ma241N8k" class="mfp-iframe video-play-text mt-15"><i class="fas fa-play"></i> <span>How IT Works</span></a>
@@ -54,13 +54,14 @@
         <section class="about-area-four py-60 rpy-100 rel z-1">
             <div class="container">
                 <div class="row justify-content-between">
-                    <div class="col-xl-5 col-lg-6 order-1">
+                    <div class="col-xl-6 col-lg-6 order-1">
                         <div class="about-content-four mt-40 rmt-0 rmb-55 wow fadeInUp delay-0-4s animated" style="visibility: visible; animation-name: fadeInUp;">
                             <div class="section-title mb-2">
                                 <span class="sub-title mb-15">About Us</span>
                                 <h2 class="mb-0">Welcome to Vytalix Tech</h2>
                             </div>
-                            <p>We specialize in crafting tailored strategies and creative solutions that drive success in the digital realm. With a team of skilled experts in web design, digital marketing, and technology, we're committed to bringing your vision to life</p>
+                            <p>At Vytalix Tech, we are passionate about transforming ideas into stunning digital experiences. With a focus on innovative design and seamless functionality, we specialize in creating websites that are not only visually appealing but also optimized for performance and user engagement.</p>
+                            <p>Our mission is to help businesses, individuals, and organizations establish a strong online presence that resonates with their target audience. From responsive design to custom development, we tailor every project to meet the unique needs of our clients.</p>
                             <div class="client-satisfactions counter-text-wrap pt-10 pb-10 counted">
                             <a href="about.html" class="theme-btn">Read More <i class="fas fa-angle-double-right"></i></a>
                                 <img src="assets/images/about/hands.png" alt="Hands">
@@ -92,7 +93,7 @@
             <div class="container">
                 <div class="section-title text-center">
                     <span class="sub-title mb-15">Our Popular Services</span>
-                    <h2>Amazing Web Design Service</h2>
+                    <h2>Innovative Web Design and Development</h2>
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-xl-3 col-md-6">
@@ -101,7 +102,7 @@
                                 <img src="assets/images/about/cta.png" alt="Service">
                             </div>
                             <h5>Website Design and Development</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -110,7 +111,7 @@
                                 <img src="assets/images/services/service-four3.png" alt="Service">
                             </div>
                             <h5>eCommerce and Product Selling Development</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -119,7 +120,7 @@
                                 <img src="assets/images/about/mission-visson.png" alt="Service">
                             </div>
                             <h5>Custom Websites (UI/UX) Design</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -128,7 +129,7 @@
                                 <img src="assets/images/services/service-four1.png" alt="Service">
                             </div>
                             <h5>Website Creation from Figma, XD or Photoshop</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -137,7 +138,7 @@
                                 <img src="assets/images/services/service-four2.png" alt="Service">
                             </div>
                             <h5>Mobile App Development and Website Design</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -146,7 +147,7 @@
                                 <img src="assets/images/services/service-four4.png" alt="Service">
                             </div>
                             <h5>Responsive Websites (UI/UX) Design</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -155,7 +156,7 @@
                                 <img src="assets/images/services/service-four5.png" alt="Service">
                             </div>
                             <h5>SEO (Search Engine Optimization)</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-xl-3 col-md-6">
@@ -164,7 +165,7 @@
                                 <img src="assets/images/services/service-four6.png" alt="Service">
                             </div>
                             <h5>Digital Product Design and Development</h5>
-                            <a href="service-details.html" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
+                            <a href="#!" class="theme-btn style-three">Service Details <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -235,49 +236,49 @@
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-responsive"></i></div>
-                                        <h5><a href="service-details.html">Responsive design</a></h5>
+                                        <h5><a href="#!">Responsive design</a></h5>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-feature"></i></div>
-                                        <h5><a href="service-details.html">Powerful Customization</a></h5>
+                                        <h5><a href="#!">Powerful Customization</a></h5>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-aim"></i></div>
-                                        <h5><a href="service-details.html">Cool & modern animations</a></h5>
+                                        <h5><a href="#!">Cool & modern animations</a></h5>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-seo"></i></div>
-                                        <h5><a href="service-details.html">SEO Friendly Coding</a></h5>
+                                        <h5><a href="#!">SEO Friendly Coding</a></h5>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-search-location"></i></div>
-                                        <h5><a href="service-details.html">Best Technical supports</a></h5>
+                                        <h5><a href="#!">Best Technical supports</a></h5>
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
                                     <div class="service-item style-two">
                                         <div class="icon"><i class="flaticon-settings"></i></div>
-                                        <h5><a href="service-details.html">Varied Layouts & parallax</a></h5>
+                                        <h5><a href="#!">Varied Layouts & parallax</a></h5>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-5">
+                    <div class="col-lg-6">
                         <div class="support-features-content mb-30 wow fadeInUp delay-0-4s">
                             <div class="section-title mb-30">
                                 <span class="sub-title mb-15">Support & Features</span>
                                 <h2>Amazing web design development features</h2>
                             </div>
-                            <p>Sit amet consectetur adipiscing eiusmod tempor incididunt labore et dolore magna aliquae suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan</p>
+                            <p>At Vytalix Tech, we create stunning, responsive websites that adapt to any device. Our sites are SEO-optimized to boost visibility, with fast loading speeds for a smooth user experience. We ensure cross-browser compatibility and deliver secure, scalable solutions that grow with your business. Whether it's a custom design or e-commerce integration, our focus is on crafting engaging and user-friendly websites that make an impact.</p>
                             <a href="about.html" class="theme-btn mt-25">Read More <i class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
@@ -469,60 +470,60 @@
                             <div class="accordion-item">
                                 <h5 class="accordion-header">
                                     <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseOne">
-                                        Will you  provide website layout about design ?
+                                        What services does Vytalix Tech offer?
                                     </button>
                                 </h5>
                                 <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
                                     <div class="accordion-body">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam aperiam eaquey quae abillo inventore</p>
+                                        <p>We specialize in website design, development, SEO optimization, e-commerce integration, and custom web solutions tailored to your business needs.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h5 class="accordion-header">
                                     <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-                                        How much does cost to design website ?
+                                        How long does it take to build a website?
                                     </button>
                                 </h5>
                                 <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#faq-accordion">
                                     <div class="accordion-body">
-                                        <p>Fortunately, we aren’t just designers and developers here we are writer strategists, techs and creatives working towards the same end goal our client’s success. As a full-service digital marketing agency</p>
+                                        <p>The timeline depends on the project’s complexity, but typically, it takes 2 to 6 weeks from start to finish, depending on your requirements and feedback.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h5 class="accordion-header">
                                     <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-                                        How many revisions can i make the  design ?
+                                       Will my website be mobile-friendly?
                                     </button>
                                 </h5>
                                 <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
                                     <div class="accordion-body">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam aperiam eaquey quae abillo inventore</p>
+                                        <p>Absolutely! All our websites are built with responsive design to ensure they look great and function perfectly on all devices, from desktops to smartphones.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h5 class="accordion-header">
                                     <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFour">
-                                        Can i uplode this  design in my personal work?
+                                        Can I update the website content myself after it’s launched?
                                     </button>
                                 </h5>
                                 <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
                                     <div class="accordion-body">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam aperiam eaquey quae abillo inventore</p>
+                                        <p>Yes, we integrate easy-to-use content management systems (CMS) that allow you to update text, images, and more without needing technical expertise.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h5 class="accordion-header">
                                     <button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseFive">
-                                        Can i uplode this  design in my personal work?
+                                        Do you provide ongoing support and maintenance?
                                     </button>
                                 </h5>
                                 <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#faq-accordion">
                                     <div class="accordion-body">
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam aperiam eaquey quae abillo inventore</p>
+                                        <p>Yes, we offer post-launch support and maintenance packages to keep your website secure, updated, and running smoothly.</p>
                                     </div>
                                 </div>
                             </div>
