@@ -6665,7 +6665,7 @@ h6,
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  max-width: 444px;
+  max-width: 100%;
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -6984,6 +6984,7 @@ h6,
 
 .ww-do-two-images .image-one {
   margin-top: 60px;
+  border-radius: 170px;
 }
 
 @media only screen and (max-width: 575px) {
@@ -7002,6 +7003,7 @@ h6,
 .ww-do-two-images .image-three {
   margin: 40px -55px 50px 0;
   max-width: calc(100% + 55px);
+  border-radius: 125px;
 }
 
 @media only screen and (max-width: 575px) {
@@ -7015,12 +7017,12 @@ h6,
 .year-of-experience {
   position: absolute;
   color: white;
-  left: 0;
+  left: -60px;
   top: 50%;
-  width: 200px;
-  height: 200px;
+  width: 170px;
+  height: 170px;
   padding: 30px;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
   text-align: center;
   border-radius: 50%;
@@ -7052,8 +7054,8 @@ h6,
 .year-of-experience .number {
   display: block;
   line-height: 1;
-  font-size: 65px;
-  margin-bottom: 15px;
+  font-size: 55px;
+  margin-bottom: 12px;
   font-family: "Merriweather", serif;
 }
 
@@ -10949,7 +10951,7 @@ h6,
   z-index: 1;
   padding: 15px;
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   display: inline-block;
 }
 
@@ -14070,4 +14072,10 @@ ul.navigation li a img {
 }
 .copyright-text p {
     margin: 0;
+}
+.page-banner-area {
+  padding: 120px 0;
+}
+img.image-two {
+  border-radius: 50%;
 }

@@ -562,12 +562,12 @@
                             </div>
                             <div class="content">
                                 <span class="date"><i class="far fa-calendar-alt"></i> 25 March 2022</span>
-                                <h4><a href="blog-details.html">Easy Ways to Incorporate Customer Feedback</a></h4>
+                                <h4><a href="#!">Easy Ways to Incorporate Customer Feedback</a></h4>
                                 <div class="author">
                                     <img src="assets/images/blog/author1.jpg" alt="Author">
                                     <div class="post-by">
                                         <span>Post by</span>
-                                        <a href="#">Douglas B. Dickens</a>
+                                        <a href="#!">Douglas B. Dickens</a>
                                     </div>
                                 </div>
                             </div>
@@ -580,12 +580,12 @@
                             </div>
                             <div class="content">
                                 <span class="date"><i class="far fa-calendar-alt"></i> 27 March 2022</span>
-                                <h4><a href="blog-details.html">How to create modern web site for your business?</a></h4>
+                                <h4><a href="#!">How to create modern web site for your business?</a></h4>
                                 <div class="author">
                                     <img src="assets/images/blog/author2.jpg" alt="Author">
                                     <div class="post-by">
                                         <span>Post by</span>
-                                        <a href="#">Carson C. Rhodes</a>
+                                        <a href="#!">Carson C. Rhodes</a>
                                     </div>
                                 </div>
                             </div>
@@ -598,12 +598,12 @@
                             </div>
                             <div class="content">
                                 <span class="date"><i class="far fa-calendar-alt"></i> 25 March 2022</span>
-                                <h4><a href="blog-details.html">How to digital marketing work social networking?</a></h4>
+                                <h4><a href="#!">How to digital marketing work social networking?</a></h4>
                                 <div class="author">
                                     <img src="assets/images/blog/author3.jpg" alt="Author">
                                     <div class="post-by">
                                         <span>Post by</span>
-                                        <a href="#">Robert T. Evans</a>
+                                        <a href="#!">Robert T. Evans</a>
                                     </div>
                                 </div>
                             </div>
@@ -616,12 +616,12 @@
                             </div>
                             <div class="content">
                                 <span class="date"><i class="far fa-calendar-alt"></i> 25 March 2022</span>
-                                <h4><a href="blog-details.html">Easy Ways to Incorporate Customer Feedback</a></h4>
+                                <h4><a href="#!">Easy Ways to Incorporate Customer Feedback</a></h4>
                                 <div class="author">
                                     <img src="assets/images/blog/author4.jpg" alt="Author">
                                     <div class="post-by">
                                         <span>Post by</span>
-                                        <a href="#">Stanley J. Contreras</a>
+                                        <a href="#!">Stanley J. Contreras</a>
                                     </div>
                                 </div>
                             </div>

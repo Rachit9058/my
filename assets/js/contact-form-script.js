@@ -1,6 +1,4 @@
-/*==============================================================*/
-// Klev Contact Form  JS
-/*==============================================================*/
+
 (function ($) {
     "use strict"; // Start of use strict
     $("#contactForm").validator().on("submit", function (event) {
