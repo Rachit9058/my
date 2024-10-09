@@ -364,7 +364,7 @@ html {
 }
 
 .section-title h2 {
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -12440,6 +12440,7 @@ h4.comment-title {
 /*******************************************************/
 .faq-images img:not(:last-child) {
   margin-bottom: 30px;
+  border-radius: 130px;
 }
 
 .faq-images .image-one {
@@ -14078,4 +14079,7 @@ ul.navigation li a img {
 }
 img.image-two {
   border-radius: 50%;
+}
+.faq-images .image-two{
+  border-radius:20%;
 }
