@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
@@ -12,8 +13,9 @@
 
     <!-- Header-Links -->
     <?php include("inc/header-links.php"); ?>
-    
+
 </head>
+
 <body class="home-two">
     <div class="page-wrapper">
 
@@ -21,21 +23,70 @@
         <?php include("inc/header.php"); ?>
 
         <!-- Page Banner Start -->
-        <section class="page-banner-area rel z-1 bgc-lighter text-center">
+        <section class="page-banner-area rel">
             <div class="container">
                 <div class="banner-inner rpt-10">
-                    <h1 class="page-title wow fadeInUp delay-0-2s">abo<span>ut us</span></h1>
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb justify-content-center wow fadeInUp delay-0-4s">
-                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                            <li class="breadcrumb-item active">About</li>
-                        </ol>
-                    </nav>
+                    <div class="row">
+                        <div class="col-md-7"></div>
+                        <div class="col-md-5">
+                            <form id="contact-area-form" class="contact-area-form text-center enquiry">
+                                <h4>Get in Touch with Us</h4>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <input type="text" id="full-name" name="full-name" class="form-control"
+                                                value="" placeholder="Full Name" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <input type="email" id="blog-email" name="blog-email" class="form-control"
+                                                value="" placeholder="Email Address" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <input type="number" id="full-name" name="full-name" class="form-control"
+                                                value="" placeholder="Phone" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <select name="" id="" class="form-control">
+                                                <option value="Services" selected disabled>Services</option>
+                                                <option value="Services">Services</option>
+                                                <option value="Services">Services</option>
+                                                <option value="Services">Services</option>
+                                                <option value="Services">Services</option>
+                                                <option value="Services">Services</option>
+                                                <option value="Services">Services</option>
+
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <input type="text" id="full-name" name="full-name" class="form-control"
+                                                value="" placeholder="Location" required="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="input-field">
+                                            <input type="text" id="full-name" name="full-name" class="form-control"
+                                                value="" placeholder="Company" required="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <button type="submit" class="theme-btn">Submit Now <i
+                                        class="fas fa-angle-double-right"></i></button>
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
         </section>
         <!-- Page Banner End -->
-        
+
         <!-- What We Do Two Area start -->
         <section class="ww-do-two-area py-60 rel z-1">
             <div class="container">
@@ -46,25 +97,30 @@
                                 <span class="sub-title style-two mb-15">What We Do</span>
                                 <h2>We are Professional Digital Team</h2>
                             </div>
-                            <p>Start from scratch or choose from over 500 designer-made templates that you can fully  customize using the drag and drop website builder. Make your site come to life with video backgrounds</p>
+                            <p>Start from scratch or choose from over 500 designer-made templates that you can fully
+                                customize using the drag and drop website builder. Make your site come to life with
+                                video backgrounds</p>
                             <div class="row pt-15">
                                 <div class="col-sm-6">
                                     <div class="feature-item-two border-right pe-sm-3">
                                         <div class="icon"><i class="fas fa-check"></i></div>
                                         <h5>Customize Website</h5>
-                                        <p>Pick a template customize anything answer or question website design just you.</p>
+                                        <p>Pick a template customize anything answer or question website design just
+                                            you.</p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="feature-item-two color-two">
                                         <div class="icon"><i class="fas fa-check"></i></div>
                                         <h5>Premium Design</h5>
-                                        <p>Start your own blog, add an online store and accept bookings online always.</p>
+                                        <p>Start your own blog, add an online store and accept bookings online always.
+                                        </p>
                                     </div>
                                 </div>
                             </div>
                             <div class="client-satisfactions counter-text-wrap pt-10 pb-10 counted">
-                            <a href="about.php" class="theme-btn">Create Your Website <i class="fas fa-angle-double-right"></i></a>
+                                <a href="about.php" class="theme-btn">Create Your Website <i
+                                        class="fas fa-angle-double-right"></i></a>
                                 <img src="assets/images/about/hands.png" alt="Hands">
                                 <span class="count-text" data-speed="3000" data-stop="3658">3658</span>
                                 <span class="heading">Satisfied Clients</span>
@@ -75,11 +131,14 @@
                         <div class="ww-do-two-images rel">
                             <div class="row">
                                 <div class="col-sm-7">
-                                    <img class="image-one wow fadeInUp delay-0-4s" src="assets/images/about/ww-do-two1.jpg" alt="What We Do">
+                                    <img class="image-one wow fadeInUp delay-0-4s"
+                                        src="assets/images/about/ww-do-two1.jpg" alt="What We Do">
                                 </div>
                                 <div class="col-sm-4">
-                                    <img class="image-two wow fadeInUp delay-0-6s" src="assets/images/about/ww-do-two2.jpg" alt="What We Do">
-                                    <img class="image-three wow fadeInUp delay-0-8s" src="assets/images/about/ww-do-two3.jpg" alt="What We Do">
+                                    <img class="image-two wow fadeInUp delay-0-6s"
+                                        src="assets/images/about/ww-do-two2.jpg" alt="What We Do">
+                                    <img class="image-three wow fadeInUp delay-0-8s"
+                                        src="assets/images/about/ww-do-two3.jpg" alt="What We Do">
                                 </div>
                             </div>
                             <div class="year-of-experience wow zoomIn delay-0-6s">
@@ -94,7 +153,8 @@
         <!-- What We Do Two Area end -->
 
         <!-- Support & Features Area start -->
-        <section class="support-features-area bgs-cover bgc-lighter pt-60 pb-60 rel z-1" style="background-image: url(assets/images/features/support-features-bg.png);">
+        <section class="support-features-area bgs-cover bgc-lighter pt-60 pb-60 rel z-1"
+            style="background-image: url(assets/images/features/support-features-bg.png);">
             <div class="container">
                 <div class="row align-items-center justify-content-between">
                     <div class="col-xl-6 col-lg-7">
@@ -145,8 +205,13 @@
                                 <span class="sub-title mb-15">Support & Features</span>
                                 <h2>Amazing web design development features</h2>
                             </div>
-                            <p>At Vytalix Tech, we create stunning, responsive websites that adapt to any device. Our sites are SEO-optimized to boost visibility, with fast loading speeds for a smooth user experience. We ensure cross-browser compatibility and deliver secure, scalable solutions that grow with your business. Whether it's a custom design or e-commerce integration, our focus is on crafting engaging and user-friendly websites that make an impact.</p>
-                            <a href="about.php" class="theme-btn mt-25">Read More <i class="fas fa-angle-double-right"></i></a>
+                            <p>At Vytalix Tech, we create stunning, responsive websites that adapt to any device. Our
+                                sites are SEO-optimized to boost visibility, with fast loading speeds for a smooth user
+                                experience. We ensure cross-browser compatibility and deliver secure, scalable solutions
+                                that grow with your business. Whether it's a custom design or e-commerce integration,
+                                our focus is on crafting engaging and user-friendly websites that make an impact.</p>
+                            <a href="about.php" class="theme-btn mt-25">Read More <i
+                                    class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                 </div>
@@ -161,7 +226,7 @@
                     <div class="col-lg-6">
                         <div class="statistics-three-image bg-squire-shape mb-30 wow fadeInLeft delay-0-3s">
                             <img src="assets/images/about/statistics-five.png" alt="Statictics">
-                            
+
                         </div>
                     </div>
                     <div class="col-lg-6">
@@ -169,7 +234,7 @@
                             <div class="row justify-content-center justify-content-xl-start">
                                 <div class="col-xl-9">
                                     <div class="section-title mb-40">
-                                        <span class="sub-title mb-15">Our  Statistics</span>
+                                        <span class="sub-title mb-15">Our Statistics</span>
                                         <h2>We’ve some achievement</h2>
                                     </div>
                                 </div>
@@ -178,7 +243,7 @@
                                         <i class="flaticon-startup"></i>
                                         <span class="count-text" data-speed="3000" data-stop="2365">0</span>
                                         <span class="counter-title">Projects complete</span>
-                                        
+
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
@@ -186,7 +251,7 @@
                                         <i class="flaticon-global"></i>
                                         <span class="count-text" data-speed="3000" data-stop="5234">0</span>
                                         <span class="counter-title">Global Client’s</span>
-                                        
+
                                     </div>
                                 </div>
                                 <div class="col-xl-4 col-lg-6 col-md-4 col-sm-6">
@@ -194,7 +259,7 @@
                                         <i class="flaticon-rating"></i>
                                         <span class="count-text" data-speed="3000" data-stop="8532">0</span>
                                         <span class="counter-title">Happy Customer</span>
-                                        
+
                                     </div>
                                 </div>
                             </div>
@@ -270,7 +335,7 @@
         <!-- Features Area start -->
         <section class="features-area rel z-1 pt-60">
             <div class="container">
-               <div class="section-title text-center mb-50">
+                <div class="section-title text-center mb-50">
                     <span class="sub-title mb-15">Technology Features</span>
                     <h2>Full Potential Modern Features</h2>
                 </div>
@@ -359,15 +424,15 @@
             </div>
         </section>
         <!-- Features Area end -->
-        
-        
+
+
         <!-- Footer -->
         <?php include("inc/footer.php"); ?>
 
     </div>
     <!--End pagewrapper-->
-   
-    
+
+
     <!-- Footer-Links -->
     <?php include("inc/Footer-links.php"); ?>
 
