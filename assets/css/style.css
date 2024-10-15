@@ -7073,6 +7073,7 @@ h6,
 @media only screen and (min-width: 992px) {
   .responsive-design-image {
     margin-right: -55px;
+    text-align: center;
   }
 }
 
@@ -14092,4 +14093,8 @@ img.image-two {
 }
 .contact-area-form.enquiry h4 {
   color: #fff;
+}
+.responsive-design-image img {
+  height: 320px;
+  display: flex;
 }

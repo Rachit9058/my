@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Vytalix Tech | Website Design and Development</title>
+    <title>Vytalix Tech | Digital Product Design and Development</title>
 
     <!-- Header-Links -->
     <?php include("inc/header-links.php"); ?>
@@ -94,19 +94,19 @@
                     <div class="col-lg-6">
                         <div class="responsive-design-content rmb-65 wow fadeInLeft delay-0-2s">
                             <div class="section-title">
-                                <span class="sub-title style-two">Website Design and Development</span>
-                                <h2>Professional Static Websites for Your Business</h2>
+                                <span class="sub-title style-two">Digital Product Design and Development</span>
+                                <h2>Tailored Digital Product Design and Development Services</h2>
                             </div>
-                            <p>Vytalix Tech offers smooth, fast, and secure static websites to help you build a strong
-                                online presence. Whether you're a small business or an individual, our solutions are
-                                tailored to meet your needs.</p>
+                            <p>With Vytalix Tech, you receive tailored digital product design and development services.
+                                Our team works closely with you to ensure that your product aligns with your vision and
+                                delivers exceptional value to your users.</p>
                             <a href="about.html" class="theme-btn style-two mt-15">Learn More <i
                                     class="fas fa-angle-double-right"></i></a>
                         </div>
                     </div>
                     <div class="col-lg-6">
                         <div class="responsive-design-image wow fadeInRight delay-0-2s">
-                            <img src="assets/images/about/cta.png" alt="Responsive Design">
+                            <img src="assets/images/services/service-four6.png" alt="Responsive Design">
                         </div>
                     </div>
                 </div>
